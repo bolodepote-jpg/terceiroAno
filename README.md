@@ -3,4 +3,4 @@ Arquivos terceiro ano
 
 Todos os PDFs, PPTXs com conteudos do terceiro ano do ensino médio
 
-<img src="https://github.com/user-attachments/assets/f1a54fd9-5949-4dc0-b573-b34a77b52dd7" width="400">
+<img src="https://github.com/bolodepote-jpg/terceiroAno/blob/227bdb7f5171208ee48ba08f4413606b8d55e7cc/39503.png" width="400">
